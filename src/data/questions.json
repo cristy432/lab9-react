@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "category": "Fotbal",
+    "difficulty": "usor",
+    "question": "Câte echipe participă la faza grupelor Ligii Campionilor?",
+    "options": ["24", "32", "16", "20"],
+    "correct": "32"
+  },
+  {
+    "id": 2,
+    "category": "Fotbal",
+    "difficulty": "usor",
+    "question": "Care țară a câștigat Cupa Mondială din 2022?",
+    "options": ["Franța", "Brazilia", "Argentina", "Croația"],
+    "correct": "Argentina"
+  },
+  {
+    "id": 3,
+    "category": "Fotbal",
+    "difficulty": "usor",
+    "question": "Câți jucători are o echipă de fotbal pe teren?",
+    "options": ["10", "11", "12", "9"],
+    "correct": "11"
+  },
+  {
+    "id": 4,
+    "category": "Fotbal",
+    "difficulty": "usor",
+    "question": "Ce club a câștigat cel mai multe trofee Champions League?",
+    "options": ["Barcelona", "Bayern Munich", "Real Madrid", "Liverpool"],
+    "correct": "Real Madrid"
+  },
+  {
+    "id": 5,
+    "category": "Fotbal",
+    "difficulty": "usor",
+    "question": "Cât durează un meci oficial de fotbal (timp regulamentar)?",
+    "options": ["80 minute", "90 minute", "100 minute", "85 minute"],
+    "correct": "90 minute"
+  },
+  {
+    "id": 6,
+    "category": "Fotbal",
+    "difficulty": "mediu",
+    "question": "Cine a marcat golul de aur la finala Cupei Mondiale 2022?",
+    "options": ["Messi", "Mbappé", "Di María", "Álvarez"],
+    "correct": "Mbappé"
+  },
+  {
+    "id": 7,
+    "category": "Fotbal",
+    "difficulty": "mediu",
+    "question": "La ce club a jucat Ronaldo înainte de Manchester United (prima dată)?",
+    "options": ["Sporting Lisbon", "Benfica", "Porto", "Braga"],
+    "correct": "Sporting Lisbon"
+  },
+  {
+    "id": 8,
+    "category": "Fotbal",
+    "difficulty": "mediu",
+    "question": "Câte Baloane de Aur a câștigat Lionel Messi?",
+    "options": ["7", "8", "6", "9"],
+    "correct": "8"
+  },
+  {
+    "id": 9,
+    "category": "Fotbal",
+    "difficulty": "mediu",
+    "question": "Ce stadion găzduiește meciurile de acasă ale lui Barcelona?",
+    "options": ["Bernabeu", "Nou Camp", "Metropolitano", "San Mames"],
+    "correct": "Nou Camp"
+  },
+  {
+    "id": 10,
+    "category": "Fotbal",
+    "difficulty": "mediu",
+    "question": "Care este recordul de goluri marcate într-un singur sezon de Champions League?",
+    "options": ["15", "17", "16", "14"],
+    "correct": "17"
+  },
+  {
+    "id": 11,
+    "category": "Fotbal",
+    "difficulty": "greu",
+    "question": "În ce an a fost fondată FIFA?",
+    "options": ["1900", "1904", "1910", "1896"],
+    "correct": "1904"
+  },
+  {
+    "id": 12,
+    "category": "Fotbal",
+    "difficulty": "greu",
+    "question": "Care fotbalist a marcat cel mai rapid gol în istoria Premier League?",
+    "options": ["Alan Shearer", "Shane Long", "Ledley King", "Christian Eriksen"],
+    "correct": "Shane Long"
+  },
+  {
+    "id": 13,
+    "category": "Fotbal",
+    "difficulty": "greu",
+    "question": "Ce țară a câștigat primul Campionat Mondial de Fotbal din 1930?",
+    "options": ["Brazilia", "Argentina", "Uruguay", "Italia"],
+    "correct": "Uruguay"
+  },
+  {
+    "id": 14,
+    "category": "Fotbal",
+    "difficulty": "greu",
+    "question": "Câte goluri a marcat Gerd Müller pentru Germania la Cupe Mondiale?",
+    "options": ["12", "14", "10", "16"],
+    "correct": "14"
+  },
+  {
+    "id": 15,
+    "category": "Fotbal",
+    "difficulty": "greu",
+    "question": "Care echipă a câștigat primul titlu din Premier League în sezonul 1992-93?",
+    "options": ["Arsenal", "Manchester United", "Liverpool", "Leeds"],
+    "correct": "Manchester United"
+  },
+  {
+    "id": 16,
+    "category": "Baschet",
+    "difficulty": "usor",
+    "question": "Câte puncte valorează un coș marcat de dincolo de linia de 3 puncte?",
+    "options": ["2", "3", "4", "1"],
+    "correct": "3"
+  },
+  {
+    "id": 17,
+    "category": "Baschet",
+    "difficulty": "usor",
+    "question": "La ce înălțime se află coșul de baschet față de sol?",
+    "options": ["2.85 m", "3.05 m", "3.20 m", "2.95 m"],
+    "correct": "3.05 m"
+  },
+  {
+    "id": 18,
+    "category": "Baschet",
+    "difficulty": "usor",
+    "question": "Câți jucători are o echipă de baschet pe teren?",
+    "options": ["6", "4", "5", "7"],
+    "correct": "5"
+  },
+  {
+    "id": 19,
+    "category": "Baschet",
+    "difficulty": "usor",
+    "question": "Ce echipă NBA are cel mai multe titluri câștigate?",
+    "options": ["LA Lakers", "Chicago Bulls", "Boston Celtics", "Golden State"],
+    "correct": "Boston Celtics"
+  },
+  {
+    "id": 20,
+    "category": "Baschet",
+    "difficulty": "usor",
+    "question": "Cât durează un sfert în NBA?",
+    "options": ["10 minute", "12 minute", "15 minute", "8 minute"],
+    "correct": "12 minute"
+  },
+  {
+    "id": 21,
+    "category": "Baschet",
+    "difficulty": "mediu",
+    "question": "Câte titluri NBA a câștigat Michael Jordan cu Chicago Bulls?",
+    "options": ["5", "6", "7", "4"],
+    "correct": "6"
+  },
+  {
+    "id": 22,
+    "category": "Baschet",
+    "difficulty": "mediu",
+    "question": "Care jucător NBA deține recordul de puncte marcate într-un singur meci?",
+    "options": ["Michael Jordan", "LeBron James", "Wilt Chamberlain", "Kobe Bryant"],
+    "correct": "Wilt Chamberlain"
+  },
+  {
+    "id": 23,
+    "category": "Baschet",
+    "difficulty": "mediu",
+    "question": "La câți metri de coș se află linia de 3 puncte în NBA?",
+    "options": ["6.70 m", "7.24 m", "6.25 m", "7.00 m"],
+    "correct": "7.24 m"
+  },
+  {
+    "id": 24,
+    "category": "Baschet",
+    "difficulty": "mediu",
+    "question": "Care echipă a câștigat NBA în 2023?",
+    "options": ["Miami Heat", "Golden State Warriors", "Denver Nuggets", "Boston Celtics"],
+    "correct": "Denver Nuggets"
+  },
+  {
+    "id": 25,
+    "category": "Baschet",
+    "difficulty": "mediu",
+    "question": "LeBron James a marcat cel mai mult în cariera NBA. Câte puncte aproximativ?",
+    "options": ["36000", "38000", "40000", "34000"],
+    "correct": "40000"
+  },
+  {
+    "id": 26,
+    "category": "Baschet",
+    "difficulty": "greu",
+    "question": "Cine a inventat jocul de baschet?",
+    "options": ["James Naismith", "William Morgan", "Walter Camp", "Amos Alonzo Stagg"],
+    "correct": "James Naismith"
+  },
+  {
+    "id": 27,
+    "category": "Baschet",
+    "difficulty": "greu",
+    "question": "În ce an a fost fondat NBA?",
+    "options": ["1946", "1950", "1940", "1955"],
+    "correct": "1946"
+  },
+  {
+    "id": 28,
+    "category": "Baschet",
+    "difficulty": "greu",
+    "question": "Câte puncte a marcat Wilt Chamberlain în meciul de 100 de puncte din 1962?",
+    "options": ["95", "100", "105", "98"],
+    "correct": "100"
+  },
+  {
+    "id": 29,
+    "category": "Baschet",
+    "difficulty": "greu",
+    "question": "Care echipă a câștigat primul titlu NBA în 1947?",
+    "options": ["Boston Celtics", "Philadelphia Warriors", "New York Knicks", "Chicago Stags"],
+    "correct": "Philadelphia Warriors"
+  },
+  {
+    "id": 30,
+    "category": "Baschet",
+    "difficulty": "greu",
+    "question": "Cum se numește regula care obligă o echipă să atace în maxim 24 de secunde?",
+    "options": ["Shot clock", "Time rule", "Attack rule", "Clock rule"],
+    "correct": "Shot clock"
+  },
+  {
+    "id": 31,
+    "category": "Tenis",
+    "difficulty": "usor",
+    "question": "Câte seturi câștigă un jucător pentru a câștiga un meci la Grand Slam masculin?",
+    "options": ["2", "3", "4", "5"],
+    "correct": "3"
+  },
+  {
+    "id": 32,
+    "category": "Tenis",
+    "difficulty": "usor",
+    "question": "Care Grand Slam se joacă pe zgură?",
+    "options": ["Wimbledon", "US Open", "Roland Garros", "Australian Open"],
+    "correct": "Roland Garros"
+  },
+  {
+    "id": 33,
+    "category": "Tenis",
+    "difficulty": "usor",
+    "question": "Câte Grand Slam-uri există în tenis?",
+    "options": ["3", "5", "4", "6"],
+    "correct": "4"
+  },
+  {
+    "id": 34,
+    "category": "Tenis",
+    "difficulty": "usor",
+    "question": "Pe ce suprafață se joacă Wimbledon?",
+    "options": ["Zgură", "Hard", "Iarbă", "Covor"],
+    "correct": "Iarbă"
+  },
+  {
+    "id": 35,
+    "category": "Tenis",
+    "difficulty": "usor",
+    "question": "Câte Grand Slam-uri a câștigat Novak Djokovic?",
+    "options": ["20", "22", "24", "21"],
+    "correct": "24"
+  },
+  {
+    "id": 36,
+    "category": "Tenis",
+    "difficulty": "mediu",
+    "question": "Cum se numește scorul de 40-40 în tenis?",
+    "options": ["Deuce", "Egalitate", "Tie-break", "Avantaj"],
+    "correct": "Deuce"
+  },
+  {
+    "id": 37,
+    "category": "Tenis",
+    "difficulty": "mediu",
+    "question": "Care tenismen a câștigat Roland Garros de 14 ori?",
+    "options": ["Djokovic", "Federer", "Nadal", "Murray"],
+    "correct": "Nadal"
+  },
+  {
+    "id": 38,
+    "category": "Tenis",
+    "difficulty": "mediu",
+    "question": "Câte Grand Slam-uri a câștigat Roger Federer?",
+    "options": ["17", "20", "18", "19"],
+    "correct": "20"
+  },
+  {
+    "id": 39,
+    "category": "Tenis",
+    "difficulty": "mediu",
+    "question": "În ce țară are loc Australian Open?",
+    "options": ["Noua Zeelandă", "Australia", "Canada", "Anglia"],
+    "correct": "Australia"
+  },
+  {
+    "id": 40,
+    "category": "Tenis",
+    "difficulty": "mediu",
+    "question": "Ce înseamnă un 'ace' în tenis?",
+    "options": ["Serviciu greșit", "Minge la fileu", "Serviciu câștigat direct, fără să fie atinsă mingea", "Punct câștigat la fileu"],
+    "correct": "Serviciu câștigat direct, fără să fie atinsă mingea"
+  },
+  {
+    "id": 41,
+    "category": "Tenis",
+    "difficulty": "greu",
+    "question": "Cine a câștigat primul titlu de Grand Slam din Open Era (1968)?",
+    "options": ["Rod Laver", "Ken Rosewall", "Arthur Ashe", "John Newcombe"],
+    "correct": "Rod Laver"
+  },
+  {
+    "id": 42,
+    "category": "Tenis",
+    "difficulty": "greu",
+    "question": "Care jucătoare deține recordul de 23 de titluri Grand Slam?",
+    "options": ["Steffi Graf", "Martina Navratilova", "Serena Williams", "Chris Evert"],
+    "correct": "Serena Williams"
+  },
+  {
+    "id": 43,
+    "category": "Tenis",
+    "difficulty": "greu",
+    "question": "Câte săptămâni a stat Steffi Graf pe primul loc în clasamentul WTA?",
+    "options": ["257", "309", "374", "186"],
+    "correct": "374"
+  },
+  {
+    "id": 44,
+    "category": "Tenis",
+    "difficulty": "greu",
+    "question": "În ce an a câștigat Ilie Năstase primul titlu de Grand Slam?",
+    "options": ["1970", "1972", "1973", "1971"],
+    "correct": "1972"
+  },
+  {
+    "id": 45,
+    "category": "Tenis",
+    "difficulty": "greu",
+    "question": "Cum se numește tehnica prin care mingea este lovită cu efect în sensul invers al rotației?",
+    "options": ["Topspin", "Slice", "Flat", "Drop shot"],
+    "correct": "Slice"
+  }
+]
